@@ -1,0 +1,5 @@
+*.txt
+teste.py
+teste_motagem_global.py
+__pycache__
+Mapeia_malha
